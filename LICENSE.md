@@ -1,4 +1,4 @@
-# 
+# Enhance your Polymarket trading with quantitative Polymarket Strategy | event-driven-trading + API-integration, the #1 strategy. Includes event-driven-trading and API-integration
 
 
 
